@@ -1,0 +1,10 @@
+C:\Users\a\source\repos\BitcoinClipper2\bin\Debug\BitcoinClipper2.exe.config
+C:\Users\a\source\repos\BitcoinClipper2\bin\Debug\BitcoinClipper2.exe
+C:\Users\a\source\repos\BitcoinClipper2\bin\Debug\BitcoinClipper2.pdb
+C:\Users\a\source\repos\BitcoinClipper2\obj\Debug\BitcoinClipper2.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\BitcoinClipper2\obj\Debug\BitcoinClipper2.Form1.resources
+C:\Users\a\source\repos\BitcoinClipper2\obj\Debug\BitcoinClipper2.Properties.Resources.resources
+C:\Users\a\source\repos\BitcoinClipper2\obj\Debug\BitcoinClipper2.csproj.GenerateResource.cache
+C:\Users\a\source\repos\BitcoinClipper2\obj\Debug\BitcoinClipper2.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\BitcoinClipper2\obj\Debug\BitcoinClipper2.exe
+C:\Users\a\source\repos\BitcoinClipper2\obj\Debug\BitcoinClipper2.pdb
